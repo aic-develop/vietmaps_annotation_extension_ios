@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "VietMapsAnnotationExtension"
-  s.version      = "0.1.0"
+  s.version      = "0.2.0"
 
   s.summary      = "Extension to support VietMaps's runtime styling annotations api."
   s.description  = "Provides an object oriented annotation api around runtime styling."
